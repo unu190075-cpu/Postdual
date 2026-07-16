@@ -33,7 +33,7 @@ PostDual is an AI-powered platform that helps creators compare two X (Twitter) p
 
 
 
-Open "http://localhost:3000" in your browser.
+
 
 📌 Roadmap
 
